@@ -73,7 +73,7 @@ fontsize=10
   <element>
     <type>com.umlet.element.Note</type>
     <coordinates>
-      <x>380</x>
+      <x>190</x>
       <y>60</y>
       <w>180</w>
       <h>90</h>
