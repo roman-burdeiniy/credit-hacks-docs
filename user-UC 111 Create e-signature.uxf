@@ -171,11 +171,11 @@ type=sender</panel_attributes>
     <coordinates>
       <x>830</x>
       <y>240</y>
-      <w>240</w>
+      <w>230</w>
       <h>80</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-&lt;&lt;if all necessary "user DATA" is available&gt;&gt;</panel_attributes>
+&lt;&lt;if all required "user DATA" is available&gt;&gt;</panel_attributes>
     <additional_attributes>130.0;60.0;130.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -199,7 +199,7 @@ type=decision</panel_attributes>
       <h>90</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-&lt;&lt;if necessary user DATA is missed&gt;&gt;</panel_attributes>
+&lt;&lt;if required user DATA is missed&gt;&gt;</panel_attributes>
     <additional_attributes>80.0;70.0;80.0;10.0;170.0;10.0</additional_attributes>
   </element>
   <element>
